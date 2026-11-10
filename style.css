@@ -1,0 +1,33 @@
+
+*{box-sizing:border-box}
+body{margin:0;background:#f4f1ec;color:#292521;font:14px/1.4 Inter,system-ui,-apple-system,Segoe UI,sans-serif}
+header{padding:18px 24px;background:#292521;color:#fff;display:flex;justify-content:space-between;align-items:center;gap:16px}
+header h1{margin:0;font-size:20px;letter-spacing:.08em}
+header p{margin:3px 0 0;color:#d2c9bf;font-size:12px}
+main{display:grid;grid-template-columns:minmax(0,1fr) 370px;gap:18px;padding:18px;max-width:1500px;margin:auto}
+.panel{background:#fff;border:1px solid #ddd6cd;border-radius:12px;padding:14px;box-shadow:0 2px 8px #00000008}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:.09em;margin:0 0 10px;color:#5b5148}
+#padWrap{min-height:540px;display:flex;align-items:center;justify-content:center;background:#faf9f7;border:1px solid #e6e1da;border-radius:9px;padding:12px}
+#pad{width:100%;max-width:100%}
+#pad svg{width:100%;height:auto;max-height:75vh;display:block}
+#pad [data-zone]{cursor:pointer}
+#pad [data-zone]:hover{filter:brightness(1.12)}
+#zones{display:grid;grid-template-columns:repeat(8,1fr);gap:5px;margin-bottom:14px}
+.zone{border:1px solid #cfc8bf;background:#f6f3ef;border-radius:6px;padding:7px 0;font-weight:650;cursor:pointer}
+.zone.active{background:#28231f;color:#fff;border-color:#28231f}
+#selectedZone{font-weight:650;margin-bottom:8px}
+#family,#search{width:100%;padding:9px;border:1px solid #d8d2ca;border-radius:7px;background:#fff;margin-bottom:8px}
+#swatches{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;max-height:42vh;overflow:auto;padding:2px}
+.swatch{display:flex;align-items:center;gap:7px;text-align:left;border:1px solid #e1dcd5;border-radius:7px;background:#fff;padding:6px;cursor:pointer;min-width:0}
+.swatch i{width:26px;height:26px;border:1px solid #7775;border-radius:5px;flex:none}
+.swatch small{font-size:10px;line-height:1.25;overflow-wrap:anywhere}
+.swatch.active{outline:2px solid #6d4a35;border-color:#6d4a35}
+.selected{display:flex;align-items:center;gap:9px;padding:8px 0}
+#chip{width:32px;height:32px;border:1px solid #7775;border-radius:6px;background:#ddd}
+.selected strong{display:block}.selected small{color:#6c6259}
+.tools{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+.tools button{border:1px solid #d4cec6;background:#fff;border-radius:7px;padding:8px 10px;color:#292521;cursor:pointer}
+#apply{background:#292521;color:#fff;border-color:#292521}
+#status{font-size:12px;color:#655d55;min-height:34px;margin-top:10px}
+.note{font-size:11px;color:#756b62;margin-top:12px;line-height:1.45}
+@media(max-width:900px){main{grid-template-columns:1fr;padding:10px}header{padding:16px}.side{order:-1}#padWrap{min-height:280px}#swatches{max-height:32vh}}

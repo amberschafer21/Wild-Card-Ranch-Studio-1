@@ -1,0 +1,897 @@
+[
+  {
+    "family": "Blacks & Grays",
+    "name": "Black",
+    "code": "M2 / V15"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Metallic Black",
+    "code": "VERIFY CODE"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Charcoal",
+    "code": "M70"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Dark Grey",
+    "code": "V243"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Grey",
+    "code": "M3"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Ash",
+    "code": "M71"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Neutral Grey",
+    "code": "V207"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Silver Rose",
+    "code": "M74"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Starlight",
+    "code": "M72"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Silver Metallic",
+    "code": "VERIFY CODE"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Shiny Silver",
+    "code": "M94"
+  },
+  {
+    "family": "Blacks & Grays",
+    "name": "Seal",
+    "code": "V27"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Coffee",
+    "code": "M91"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Columbian Brew",
+    "code": "V40"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Espresso",
+    "code": "M54"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Mocha",
+    "code": "V238"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Metallic Brown",
+    "code": "VERIFY CODE"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Chestnut Brown",
+    "code": "M49"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Chocolate Brown",
+    "code": "M5"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Bronze",
+    "code": "M96"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Rusty Brown",
+    "code": "V226"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Rust",
+    "code": "M4"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Buckskin",
+    "code": "M79"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Mud",
+    "code": "V113"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Indian Tan",
+    "code": "M61"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Raw Umber",
+    "code": "M76"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Fawn",
+    "code": "M53"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Taupe",
+    "code": "M30"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Sheep Skin",
+    "code": "M60"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Lark",
+    "code": "M78"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Seductive Honey",
+    "code": "M29"
+  },
+  {
+    "family": "Browns & Tans",
+    "name": "Champagne",
+    "code": "M100"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Daffodil",
+    "code": "V50"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Pansy",
+    "code": "V94"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Buttercup",
+    "code": "M81"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Banana",
+    "code": "V202"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Egg Yellow",
+    "code": "V28"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Yellow",
+    "code": "M24"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Caramel",
+    "code": "M6"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Gold",
+    "code": "M10"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Shiny Dark Gold",
+    "code": "M93"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Metallic Gold",
+    "code": "VERIFY CODE"
+  },
+  {
+    "family": "Yellows & Golds",
+    "name": "Neon Yellow",
+    "code": "V216"
+  },
+  {
+    "family": "Oranges",
+    "name": "Orange",
+    "code": "M23"
+  },
+  {
+    "family": "Oranges",
+    "name": "Tangerine",
+    "code": "M62"
+  },
+  {
+    "family": "Oranges",
+    "name": "Tawny",
+    "code": "V70"
+  },
+  {
+    "family": "Oranges",
+    "name": "Copper",
+    "code": "M9"
+  },
+  {
+    "family": "Oranges",
+    "name": "Burnt Orange",
+    "code": "V219"
+  },
+  {
+    "family": "Oranges",
+    "name": "Tobasco",
+    "code": "M77"
+  },
+  {
+    "family": "Oranges",
+    "name": "Copper Metallic",
+    "code": "VERIFY CODE"
+  },
+  {
+    "family": "Oranges",
+    "name": "Neon Orange",
+    "code": "V228"
+  },
+  {
+    "family": "Oranges",
+    "name": "Traffic Cone",
+    "code": "V58"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "Sand",
+    "code": "M8"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "Warm Taupe",
+    "code": "V120"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "Bone",
+    "code": "V121"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "Ivory",
+    "code": "M80"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "Linen",
+    "code": "V61"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "Warm White",
+    "code": "V21"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "Cream",
+    "code": "M1"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "Off White",
+    "code": "V14"
+  },
+  {
+    "family": "Neutrals & Whites",
+    "name": "White",
+    "code": "V14"
+  },
+  {
+    "family": "Reds",
+    "name": "Tomato Red",
+    "code": "V206"
+  },
+  {
+    "family": "Reds",
+    "name": "Ruby",
+    "code": "V101"
+  },
+  {
+    "family": "Reds",
+    "name": "Real Red",
+    "code": "V211"
+  },
+  {
+    "family": "Reds",
+    "name": "Show Red",
+    "code": "M18"
+  },
+  {
+    "family": "Reds",
+    "name": "Cherry Red",
+    "code": "V17"
+  },
+  {
+    "family": "Reds",
+    "name": "Brick",
+    "code": "V69"
+  },
+  {
+    "family": "Reds",
+    "name": "Red Earth",
+    "code": "M51"
+  },
+  {
+    "family": "Reds",
+    "name": "Tibetan Red",
+    "code": "M83"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Sweet Pink",
+    "code": "M46"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Peach Ice",
+    "code": "M7"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Peach",
+    "code": "V20"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Rose Gold",
+    "code": "M95"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Blush",
+    "code": "V63"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Peony",
+    "code": "V62"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Bubble Gum",
+    "code": "V222"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Sachet Pink",
+    "code": "M84"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Pink Carnation",
+    "code": "M87"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Crape Myrtle",
+    "code": "V161"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Sunkist Coral",
+    "code": "V64"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Georgia Peach",
+    "code": "V92"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Australian Coral",
+    "code": "V215"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Punch",
+    "code": "V52"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Coral",
+    "code": "M26"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Neon Pink",
+    "code": "V194"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Watermelon",
+    "code": "V203"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Hot Pink",
+    "code": "V198"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Flamingo",
+    "code": "V224"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Magenta",
+    "code": "V166"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Fandango Pink",
+    "code": "M64"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Fuchsia",
+    "code": "M19"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Pirate",
+    "code": "V137"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Raspberry",
+    "code": "M59"
+  },
+  {
+    "family": "Purples",
+    "name": "Lavender Lace",
+    "code": "V239"
+  },
+  {
+    "family": "Purples",
+    "name": "Lavender Ice",
+    "code": "M36"
+  },
+  {
+    "family": "Purples",
+    "name": "Wisteria",
+    "code": "V84"
+  },
+  {
+    "family": "Purples",
+    "name": "Eve Lilac",
+    "code": "M48"
+  },
+  {
+    "family": "Purples",
+    "name": "Orchid",
+    "code": "M73"
+  },
+  {
+    "family": "Purples",
+    "name": "Cadet",
+    "code": "M75"
+  },
+  {
+    "family": "Purples",
+    "name": "Iris",
+    "code": "V105"
+  },
+  {
+    "family": "Purples",
+    "name": "Amethyst",
+    "code": "V172"
+  },
+  {
+    "family": "Purples",
+    "name": "Grape Juice",
+    "code": "M92"
+  },
+  {
+    "family": "Purples",
+    "name": "Medium Purple",
+    "code": "V60"
+  },
+  {
+    "family": "Purples",
+    "name": "Soft Purple",
+    "code": "M20"
+  },
+  {
+    "family": "Purples",
+    "name": "Metallic Purple",
+    "code": "M99"
+  },
+  {
+    "family": "Purples",
+    "name": "Regal Purple",
+    "code": "V191"
+  },
+  {
+    "family": "Purples",
+    "name": "Royal Lilac",
+    "code": "M82"
+  },
+  {
+    "family": "Purples",
+    "name": "Show Purple",
+    "code": "M21"
+  },
+  {
+    "family": "Purples",
+    "name": "True Purple",
+    "code": "V103"
+  },
+  {
+    "family": "Purples",
+    "name": "Blackberry",
+    "code": "V213"
+  },
+  {
+    "family": "Purples",
+    "name": "Plum",
+    "code": "V200"
+  },
+  {
+    "family": "Purples",
+    "name": "Tyrian Purple",
+    "code": "V200"
+  },
+  {
+    "family": "Purples",
+    "name": "Cabernet",
+    "code": "V29"
+  },
+  {
+    "family": "Purples",
+    "name": "Merlot",
+    "code": "V99"
+  },
+  {
+    "family": "Purples",
+    "name": "Sangria",
+    "code": "V16"
+  },
+  {
+    "family": "Purples",
+    "name": "Malbec",
+    "code": "V245"
+  },
+  {
+    "family": "Purples",
+    "name": "Mauve Rose",
+    "code": "V47"
+  },
+  {
+    "family": "Purples",
+    "name": "Indigo",
+    "code": "M38"
+  },
+  {
+    "family": "Purples",
+    "name": "Abyss",
+    "code": "V213"
+  },
+  {
+    "family": "Purples",
+    "name": "Midnight",
+    "code": "V18"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Laurel Green",
+    "code": "M58"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Mint Green",
+    "code": "M37"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Seafoam",
+    "code": "M27"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Plume",
+    "code": "M67"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Aqua",
+    "code": "M63"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Romantic Blue",
+    "code": "M31"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Crystal Ice Blue",
+    "code": "M33"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Forget Me Not",
+    "code": "M88"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Niagara",
+    "code": "M89"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Periwinkle",
+    "code": "M52"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Carolina",
+    "code": "V53"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Tiffany",
+    "code": "V86"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Cyan",
+    "code": "V218"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Sky Blue",
+    "code": "V83"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Aquamarine",
+    "code": "V225"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Seaglass",
+    "code": "V205"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Soft Turquoise",
+    "code": "M13"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Lagoon",
+    "code": "V107"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Teal",
+    "code": "M12"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Show Turquoise",
+    "code": "M14"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Peacock",
+    "code": "V209"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Prussian",
+    "code": "V12"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Metallic Blue",
+    "code": "M101"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Star Blue",
+    "code": "V26"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Cornflower",
+    "code": "V230"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Malibu Blue",
+    "code": "M66"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Ocean Blue",
+    "code": "M28"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Slate Blue",
+    "code": "M47"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Aegean",
+    "code": "V183"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Kimes Jeans",
+    "code": "V242"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Cobalt",
+    "code": "V19"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Royal Blue",
+    "code": "M15"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Blueberry",
+    "code": "V100"
+  },
+  {
+    "family": "Blues & Turquoises",
+    "name": "Navy Blue",
+    "code": "M16"
+  },
+  {
+    "family": "Greens",
+    "name": "Laurel Green",
+    "code": "M58"
+  },
+  {
+    "family": "Greens",
+    "name": "Key Lime Ice",
+    "code": "M34"
+  },
+  {
+    "family": "Greens",
+    "name": "Pistachio",
+    "code": "M68"
+  },
+  {
+    "family": "Greens",
+    "name": "Granny Smith",
+    "code": "V234"
+  },
+  {
+    "family": "Greens",
+    "name": "Lime Blast",
+    "code": "M85"
+  },
+  {
+    "family": "Greens",
+    "name": "Lime",
+    "code": "M22"
+  },
+  {
+    "family": "Greens",
+    "name": "Pea Green",
+    "code": "V56"
+  },
+  {
+    "family": "Greens",
+    "name": "Tea Green",
+    "code": "V90"
+  },
+  {
+    "family": "Greens",
+    "name": "Green Goddess",
+    "code": "V214"
+  },
+  {
+    "family": "Greens",
+    "name": "Green Grass",
+    "code": "V192"
+  },
+  {
+    "family": "Greens",
+    "name": "Shamrock",
+    "code": "V231"
+  },
+  {
+    "family": "Greens",
+    "name": "Kelly Green",
+    "code": "M32"
+  },
+  {
+    "family": "Greens",
+    "name": "Clover",
+    "code": "V189"
+  },
+  {
+    "family": "Greens",
+    "name": "Manzanilla",
+    "code": "V23"
+  },
+  {
+    "family": "Greens",
+    "name": "Light Olive",
+    "code": "V241"
+  },
+  {
+    "family": "Greens",
+    "name": "Dark Olive",
+    "code": "M86"
+  },
+  {
+    "family": "Greens",
+    "name": "Sage Green",
+    "code": "M55"
+  },
+  {
+    "family": "Greens",
+    "name": "Hunter Green",
+    "code": "M11"
+  },
+  {
+    "family": "Greens",
+    "name": "Forrest Green",
+    "code": "M65"
+  },
+  {
+    "family": "Greens",
+    "name": "Mallard",
+    "code": "V59"
+  },
+  {
+    "family": "Greens",
+    "name": "Seaweed",
+    "code": "V32"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Garnet Rose",
+    "code": "M56"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Rouge",
+    "code": "V76"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Metallic Pink",
+    "code": "M98"
+  },
+  {
+    "family": "Pinks & Corals",
+    "name": "Dusty Rose",
+    "code": "V240"
+  }
+]

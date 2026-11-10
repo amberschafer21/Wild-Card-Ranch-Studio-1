@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Wild Card Show Pads | Ranch 1 Design Studio</title><link rel="stylesheet" href="style.css"></head>
+<body>
+<header><div><h1>WILD CARD SHOW PADS</h1><p>RANCH 1 · CUSTOM DESIGN STUDIO</p></div><div style="font-size:11px;color:#d8cfc6">EXACT SECTION MAP</div></header>
+<main>
+<section class="panel">
+<h2>Ranch 1 pad preview</h2>
+<div id="padWrap"><div id="pad"></div></div>
+<div class="tools"><button id="apply">Apply selected color</button><button id="undo">Undo</button><button id="reset">Reset</button><button id="download">Download custom SVG</button></div>
+<div id="status">Loading exact Ranch 1 mapping…</div>
+<p class="note">Click a numbered section or select its number on the right. Choose a supplier color and press Apply. Matching pieces with the same number recolor together. Black outlines and the original vector geometry are retained.</p>
+</section>
+<aside class="panel side">
+<h2>Numbered sections</h2><div id="zones"><button class="zone" data-zone="1">1</button><button class="zone" data-zone="2">2</button><button class="zone" data-zone="3">3</button><button class="zone" data-zone="4">4</button><button class="zone" data-zone="5">5</button><button class="zone" data-zone="6">6</button><button class="zone" data-zone="7">7</button><button class="zone" data-zone="8">8</button><button class="zone" data-zone="9">9</button><button class="zone" data-zone="10">10</button><button class="zone" data-zone="11">11</button><button class="zone" data-zone="12">12</button><button class="zone" data-zone="13">13</button><button class="zone" data-zone="14">14</button><button class="zone" data-zone="15">15</button><button class="zone" data-zone="16">16</button><button class="zone" data-zone="17">17</button><button class="zone" data-zone="18">18</button><button class="zone" data-zone="19">19</button><button class="zone" data-zone="20">20</button><button class="zone" data-zone="21">21</button><button class="zone" data-zone="22">22</button><button class="zone" data-zone="23">23</button><button class="zone" data-zone="24">24</button><button class="zone" data-zone="25">25</button><button class="zone" data-zone="26">26</button><button class="zone" data-zone="27">27</button><button class="zone" data-zone="28">28</button><button class="zone" data-zone="29">29</button><button class="zone" data-zone="30">30</button><button class="zone" data-zone="31">31</button></div>
+<div id="selectedZone">No section selected</div>
+<h2>Supplier color library</h2><select id="family"><option>Loading…</option></select><input id="search" placeholder="Search color name or supplier code">
+<div class="selected"><div id="chip"></div><div><strong id="cname">No color selected</strong><small id="ccode">Choose a supplier swatch</small></div></div>
+<div id="swatches"></div>
+<p class="note">The supplier color list contains 179 entries. Screen colors are visual placeholders, not calibrated production matches. Confirm final colors against physical swatches.</p>
+</aside>
+</main><script src="app.js"></script></body></html>
